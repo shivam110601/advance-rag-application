@@ -40,7 +40,7 @@ advance-rag-application/
 - Python 3.9+
 - Docker (if you want to run the app in a container)
 - A valid API key for the Gemini model (e.g., `GOOGLE_API_KEY`)
-- 🤗 Face API key for Embedding Model (i.e., `HF_TOKEN`)
+- 🤗 Face Access Token for Embedding Model (i.e., `HF_TOKEN`)
 
 ## Setup
 
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 You need to configure the following environment variables for the application to work:
 
 - `GOOGLE_API_KEY`: The API key for the Gemini generative model.
-- `HF_TOKEN`: The API key for Hugging Face
+- `HF_TOKEN`: The Access Token for Hugging Face
 
 You can set these in your terminal or within your Python code before running the app.
 
