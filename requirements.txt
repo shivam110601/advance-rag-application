@@ -1,0 +1,10 @@
+langchain
+langchain-chroma
+langchain_google_genai
+langchain-huggingface
+langchain-community
+pypdf
+python-dotenv
+streamlit
+streamlit-chat
+torch

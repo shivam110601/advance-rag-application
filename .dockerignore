@@ -1,0 +1,7 @@
+venv/
+.git/
+.gitignore
+README.md
+QA.png
+QA1.png
+pdfs_upload.png
