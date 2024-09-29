@@ -4,7 +4,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** application built wit
 
 The app allows users to upload documents (PDFs) and interact with a question-answering bot, which retrieves relevant sections from the uploaded documents and generates answers using LLM.
 
-## Example
+## UI
 
 ![pdfs_upload.png](pdfs_upload.png)
 ![QA.png](QA.png)
