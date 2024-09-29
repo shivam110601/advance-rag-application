@@ -40,7 +40,7 @@ advance-rag-application/
 - Python 3.9+
 - Docker (if you want to run the app in a container)
 - A valid API key for the Gemini model (e.g., `GOOGLE_API_KEY`)
-- 🤗 Face Access Token for Embedding Model (i.e., `HF_TOKEN`)
+- 🤗 Access Token for Embedding Model (i.e., `HF_TOKEN`)
 
 ## Setup
 
